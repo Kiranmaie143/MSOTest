@@ -144,6 +144,7 @@
             <div class="col-md-offset-2 col-md-10">
                 @*An example of the button classes in action on a submit button*@
                 <input type="submit" value="Save" class="btn btn-primary" />
+                <input type="button" value="Close" class="btn btn-default" onclick="cancelFunction()" />
             </div>
         </div>
     </div>
@@ -154,5 +155,6 @@
 </div>
 
 @section Scripts {
+    <script src="~/js/file.js"></script>
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }
