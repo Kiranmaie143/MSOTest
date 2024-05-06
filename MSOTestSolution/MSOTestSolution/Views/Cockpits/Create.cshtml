@@ -1,0 +1,158 @@
+﻿@model MSOTestSolution.Models.Cockpit
+
+@{
+    ViewData["Title"] = "Create";
+}
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+<hr />
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Task ID</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.Title, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-4">
+                @Html.EditorFor(model => model.Title, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Responsible, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-4">
+                @Html.EditorFor(model => model.Responsible, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Date, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-4">
+                @Html.EditorFor(model => model.Date, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.Description, new { htmlAttributes = new { @class = "form-control" }})
+               
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Progress, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.Progress)
+                   
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Status</label>
+            <div class="col-sm-10">
+               @*  <div class="radio-inline">
+                    <span>
+                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="9" cy="9" r="9" fill="#F13C4E" />
+                    </svg>
+                    </span>
+                    @Html.RadioButtonFor(m => m.Status, 1)
+                </div> *@
+                <div class="d-flex flex-row bd-highlight mb-3">
+                    <div class="p-2 bd-highlight">
+                        <span>
+                            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <circle cx="9" cy="9" r="9" fill="#F13C4E" />
+                            </svg>
+                        </span>
+                    </div>
+                    <div class="p-2 bd-highlight">
+                        <span>
+                            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <circle cx="9" cy="9" r="9" fill="#F7CA27" />
+                            </svg>
+                        </span>
+                    </div>
+                    <div class="p-2 bd-highlight">
+                        <span>
+                            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M18.0001 9C18.0001 13.9706 13.9707 18 9.0001 18C4.02954 18 9.86515e-05 13.9706 9.86515e-05 9C9.86515e-05 4.02944 4.02954 0 9.0001 0C13.9707 0 18.0001 4.02944 18.0001 9Z" fill="#99D002" />
+                            </svg>
+                        </span>
+                    </div>
+                </div>
+                <div class="d-flex flex-row bd-highlight mb-3" style="padding:0px 0px 0px 5px">
+                    <div class="p-2 bd-highlight">@Html.RadioButtonFor(m => m.Status, 1)</div>
+                    <div class="p-2 bd-highlight">@Html.RadioButtonFor(m => m.Status, 2)</div>
+                    <div class="p-2 bd-highlight">@Html.RadioButtonFor(m => m.Status, 3)</div>
+                </div>
+                @* <div class="d-flex flex-column-reverse bd-highlight mb-3">
+                    <div class="p-2 bd-highlight"> @Html.RadioButtonFor(m => m.Status, 1)</div>
+                    <div class="p-2 bd-highlight">
+                        <span>
+                            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <circle cx="9" cy="9" r="9" fill="#F13C4E" />
+                            </svg>
+                        </span>
+                    </div>
+                   
+                </div>
+                <div class="d-flex flex-column-reverse bd-highlight mb-3">
+                    <div class="p-2 bd-highlight"> @Html.RadioButtonFor(m => m.Status, 2)</div>
+                    <div class="p-2 bd-highlight">
+                        <span>
+                            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <circle cx="9" cy="9" r="9" fill="#F7CA27" />
+                            </svg>
+                        </span>
+                    </div>
+
+                </div>
+                <div class="d-flex flex-column-reverse bd-highlight mb-3">
+                    <div class="p-2 bd-highlight"> @Html.RadioButtonFor(m => m.Status, 3)</div>
+                    <div class="p-2 bd-highlight">
+                        <span>
+                            <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M18.0001 9C18.0001 13.9706 13.9707 18 9.0001 18C4.02954 18 9.86515e-05 13.9706 9.86515e-05 9C9.86515e-05 4.02944 4.02954 0 9.0001 0C13.9707 0 18.0001 4.02944 18.0001 9Z" fill="#99D002" />
+                            </svg>
+                        </span>
+                    </div>
+
+                </div> *@
+             @*    <div class="radio-inline"><label>@Html.RadioButtonFor(m => m.Status, 2) In Progress </label></div>
+                <div class="radio-inline"><label>@Html.RadioButtonFor(m => m.Status, 3) Closed/Fixed </label></div> *@
+               
+            </div>
+        </div>
+
+
+        <div id="skills-wrapper"></div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <ul id="skills-list" class="list-group"></ul>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                @*An example of the button classes in action on a submit button*@
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

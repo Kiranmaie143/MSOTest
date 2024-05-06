@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|c:\\users\\ejvar\\source\\repos\\msotestsolution\\msotestsolution\\views\\cockpits\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|solutionrelative:msotestsolution\\views\\cockpits\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|c:\\users\\ejvar\\source\\repos\\msotestsolution\\msotestsolution\\views\\cockpits\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|solutionrelative:msotestsolution\\views\\cockpits\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|c:\\users\\ejvar\\source\\repos\\msotestsolution\\msotestsolution\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|solutionrelative:msotestsolution\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|c:\\users\\ejvar\\source\\repos\\msotestsolution\\msotestsolution\\file.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|solutionrelative:msotestsolution\\file.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|c:\\users\\ejvar\\source\\repos\\msotestsolution\\msotestsolution\\controllers\\cockpitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|solutionrelative:msotestsolution\\controllers\\cockpitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|c:\\users\\ejvar\\source\\repos\\msotestsolution\\msotestsolution\\models\\cockpit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|solutionrelative:msotestsolution\\models\\cockpit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|c:\\users\\ejvar\\source\\repos\\msotestsolution\\msotestsolution\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|solutionrelative:msotestsolution\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|c:\\users\\ejvar\\source\\repos\\msotestsolution\\msotestsolution\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|solutionrelative:msotestsolution\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Migrations\\20240505121803_AddNewcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MSOTestSolution\\Migrations\\20240505121803_AddNewcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|c:\\users\\ejvar\\source\\repos\\msotestsolution\\msotestsolution\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|solutionrelative:msotestsolution\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|c:\\users\\ejvar\\source\\repos\\msotestsolution\\msotestsolution\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|solutionrelative:msotestsolution\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|c:\\users\\ejvar\\source\\repos\\msotestsolution\\msotestsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|solutionrelative:msotestsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|c:\\users\\ejvar\\source\\repos\\msotestsolution\\msotestsolution\\views\\cockpits\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|solutionrelative:msotestsolution\\views\\cockpits\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|c:\\users\\ejvar\\source\\repos\\msotestsolution\\msotestsolution\\views\\cockpits\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|solutionrelative:msotestsolution\\views\\cockpits\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|c:\\users\\ejvar\\source\\repos\\msotestsolution\\msotestsolution\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|solutionrelative:msotestsolution\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|c:\\users\\ejvar\\source\\repos\\msotestsolution\\msotestsolution\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|solutionrelative:msotestsolution\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|c:\\users\\ejvar\\source\\repos\\msotestsolution\\msotestsolution\\msotestsolution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7CBF185F-DAC7-41BF-986B-406D656EE40B}|MSOTestSolution\\MSOTestSolution.csproj|solutionrelative:msotestsolution\\msotestsolution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "file.ts",
+              "DocumentMoniker": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\file.ts",
+              "RelativeDocumentMoniker": "MSOTestSolution\\file.ts",
+              "ToolTip": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\file.ts",
+              "RelativeToolTip": "MSOTestSolution\\file.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-06T09:04:23.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\tsconfig.json",
+              "RelativeDocumentMoniker": "MSOTestSolution\\tsconfig.json",
+              "ToolTip": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\tsconfig.json",
+              "RelativeToolTip": "MSOTestSolution\\tsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T09:00:53.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Views\\Cockpits\\Index.cshtml",
+              "RelativeDocumentMoniker": "MSOTestSolution\\Views\\Cockpits\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Views\\Cockpits\\Index.cshtml",
+              "RelativeToolTip": "MSOTestSolution\\Views\\Cockpits\\Index.cshtml",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAABwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T17:40:04.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CockpitsController.cs",
+              "DocumentMoniker": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Controllers\\CockpitsController.cs",
+              "RelativeDocumentMoniker": "MSOTestSolution\\Controllers\\CockpitsController.cs",
+              "ToolTip": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Controllers\\CockpitsController.cs",
+              "RelativeToolTip": "MSOTestSolution\\Controllers\\CockpitsController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAmwEAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:39:51.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\appsettings.json",
+              "RelativeDocumentMoniker": "MSOTestSolution\\appsettings.json",
+              "ToolTip": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\appsettings.json",
+              "RelativeToolTip": "MSOTestSolution\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T17:39:05.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "MSOTestSolution\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "MSOTestSolution\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-04T19:56:06.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Views\\Cockpits\\Create.cshtml",
+              "RelativeDocumentMoniker": "MSOTestSolution\\Views\\Cockpits\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Views\\Cockpits\\Create.cshtml",
+              "RelativeToolTip": "MSOTestSolution\\Views\\Cockpits\\Create.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwCgAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T17:47:13.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MSOTestSolution\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MSOTestSolution\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-04T18:52:27.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MSOTestSolution\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MSOTestSolution\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwB0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T11:46:45.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240505121803_AddNewcolumn.cs",
+              "DocumentMoniker": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Migrations\\20240505121803_AddNewcolumn.cs",
+              "RelativeDocumentMoniker": "MSOTestSolution\\Migrations\\20240505121803_AddNewcolumn.cs",
+              "ToolTip": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Migrations\\20240505121803_AddNewcolumn.cs",
+              "RelativeToolTip": "MSOTestSolution\\Migrations\\20240505121803_AddNewcolumn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T12:18:03.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MSOTestSolution\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MSOTestSolution\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T17:40:09.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cockpit.cs",
+              "DocumentMoniker": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Models\\Cockpit.cs",
+              "RelativeDocumentMoniker": "MSOTestSolution\\Models\\Cockpit.cs",
+              "ToolTip": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Models\\Cockpit.cs",
+              "RelativeToolTip": "MSOTestSolution\\Models\\Cockpit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:39:02.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Program.cs",
+              "RelativeDocumentMoniker": "MSOTestSolution\\Program.cs",
+              "ToolTip": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Program.cs",
+              "RelativeToolTip": "MSOTestSolution\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwCAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:39:06.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MSOTestSolution\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MSOTestSolution\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:42:03.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Views\\Cockpits\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MSOTestSolution\\Views\\Cockpits\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Views\\Cockpits\\Edit.cshtml",
+              "RelativeToolTip": "MSOTestSolution\\Views\\Cockpits\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T18:02:29.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Views\\Cockpits\\Details.cshtml",
+              "RelativeDocumentMoniker": "MSOTestSolution\\Views\\Cockpits\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\Views\\Cockpits\\Details.cshtml",
+              "RelativeToolTip": "MSOTestSolution\\Views\\Cockpits\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T18:02:36.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MSOTestSolution.csproj",
+              "DocumentMoniker": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\MSOTestSolution.csproj",
+              "RelativeDocumentMoniker": "MSOTestSolution\\MSOTestSolution.csproj",
+              "ToolTip": "C:\\Users\\ejvar\\source\\repos\\MSOTestSolution\\MSOTestSolution\\MSOTestSolution.csproj",
+              "RelativeToolTip": "MSOTestSolution\\MSOTestSolution.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T17:38:49.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
